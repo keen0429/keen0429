@@ -5,7 +5,7 @@
 <div>
 <p>✩░▒▓▆▅▃▂▁👋😀 𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬! 👋😄▁▂▃▅▆▓▒░✩
 
-I am a highly skilled Full-Stack & AI Engineer specializing in building **scalable, high-performance web applications** and **AI-powered solutions**. With over 10 years of experience, I excel in **end-to-end development** using **JavaScript/TypeScript, Python, and modern frameworks** such as React, Next.js, Node.js, Vue, Angular, Flask, and FastAPI. I integrate AI models, build robust APIs, and optimize cloud deployments, focusing on maintainable, reliable, and high-performance systems. I thrive in Agile environments, collaborating across teams, mentoring developers, and delivering projects that combine **cutting-edge AI** with real-world applications.
+I am a highly skilled Full-Stack & AI Engineer specializing in building **scalable, high-performance web applications** and **AI-powered solutions**. With over 10 years of experience, I excel in **end-to-end development** using **JavaScript/TypeScript, Python, PHP, and modern frameworks** such as React, Next.js, Node.js, Vue, Angular, Laravel, Symfony, Flask, and FastAPI. I integrate AI models, build robust APIs, and optimize cloud deployments, focusing on maintainable, reliable, and high-performance systems. I thrive in Agile environments, collaborating across teams, mentoring developers, and delivering projects that combine **cutting-edge AI** with real-world applications.
 
 ✌ 𝗠𝘆 𝗦𝗸𝗶𝗹𝗹𝘀 ✌
 
@@ -15,7 +15,7 @@ I am a highly skilled Full-Stack & AI Engineer specializing in building **scalab
 ● Interactive UI development with animations (GSAP) and responsive, accessible designs
 
 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 & 𝐀𝐏𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: <br/>
-● Node.js, Express, NestJS, Django, Flask  
+● Node.js, Express, NestJS, PHP, Laravel, Symfony, Django, Flask  
 ● RESTful APIs & GraphQL with authentication/authorization (OAuth, JWT)  
 ● Real-time apps with Socket.io and async workflow handling  
 ● Performance tuning, caching strategies, and backend optimizations
@@ -203,6 +203,10 @@ I specialize in delivering **scalable, AI-driven, high-performance applications*
     <td align="center" width="96">
           <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src=".//assets//django.svg" alt="django" width="40" height="40"/> </a> 
       <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+      <br>PHP
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
