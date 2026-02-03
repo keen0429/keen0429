@@ -197,6 +197,10 @@ I specialize in delivering **scalable, AI-driven, high-performance applications*
       <br>FastAPI
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
           <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src=".//assets//django.svg" alt="django" width="40" height="40"/> </a> 
       <br>Django
     </td>
