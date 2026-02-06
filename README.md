@@ -66,44 +66,6 @@ I specialize in delivering **scalable, AI-driven, high-performance applications*
 
 <table align="center">
   <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="40" height="40"/> </a> 
-      <br>C++
-    </td>
-    <td align="center" width="96">
-          <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./assets//c.gif" alt="c" width="40" height="40"/> </a> 
-      <br>C
-    </td>
-    <td align="center" width="96">
-          <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="./assets/graphql.svg" alt="graphql" width="40" height="40"/> </a> 
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=less" width="48" height="48" alt="less" />
-      <br>Less
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="mui" />
-      <br>MUI
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="svelte" />
       <br>Svelte
@@ -139,44 +101,6 @@ I specialize in delivering **scalable, AI-driven, high-performance applications*
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=solidjs" width="48" height="48" alt="solidjs" />
       <br>SolidJS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-          <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="./assets/swift.svg" alt="swift" width="40" height="40"/> </a> 
-      <br>Swift
-    </td>
-    <td align="center" width="96">
-        <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> 
-      <br>OBJ-C
-    </td>
-    <td align="center" width="96">
-          <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./assets/android.gif" alt="android" width="40" height="40"/> </a> 
-      <br>Android
-    </td>
-    <td align="center" width="96">
-          <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="./assets/kotlin.gif" alt="kotlin" width="40" height="40"/> </a> 
-      <br>Kotlin
-    </td>
-    <td align="center"  width="96">
-          <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="./assets/flutter.gif" alt="flutter" width="40" height="40"/> </a> 
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-         <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-      <br>Dart
-    </td>
-        <td align="center" width="96">
-          <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="./assets/react.gif" alt="reactnative" width="40" height="40"/> </a> 
-      <br>ReactNative
-    </td>
-    <td align="center" width="96">
-          <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
-      <br>Ionic
-    </td>
-    <td align="center" width="96">
-         <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
-      <br>Xamarin
     </td>
   </tr>
   <tr>
@@ -291,44 +215,6 @@ I specialize in delivering **scalable, AI-driven, high-performance applications*
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="terraform" />
       <br>Terraform
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="cloudflare" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="nginx" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" />
-      <br>Vercel
-    </td>
-    <td align="center" width="96">
-          <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.gif" alt="figma" width="40" height="40"/> </a> 
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="48" height="48" alt="jest" />
-      <br>Jest
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
-      <br>Prisma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="ai" />
-      <br>AI
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash" />
-      <br>Bash
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="bash" />
-      <br>Java
     </td>
   </tr>
 </table>
