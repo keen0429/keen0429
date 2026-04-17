@@ -5,7 +5,7 @@
 <div>
 <p>✩░▒▓▆▅▃▂▁👋😀 𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬! 👋😄▁▂▃▅▆▓▒░✩
 
-I am a highly skilled Full-Stack & AI Engineer specializing in building **scalable, high-performance web applications** and **AI-powered solutions**. With over 10 years of experience, I excel in **end-to-end development** using **JavaScript/TypeScript, Python, PHP, and modern frameworks** such as React, Next.js, Node.js, Vue, Angular, Laravel, Symfony, Flask, and FastAPI. I integrate AI models, build robust APIs, and optimize cloud deployments, focusing on maintainable, reliable, and high-performance systems. I thrive in Agile environments, collaborating across teams, mentoring developers, and delivering projects that combine **cutting-edge AI** with real-world applications.
+I am a highly skilled Full-Stack, Mobile & AI Engineer specializing in building scalable, high-performance web and mobile applications and AI-powered solutions. With over 10 years of experience, I excel in end-to-end development using JavaScript/TypeScript, Python, PHP, and modern frameworks such as React, Next.js, React Native (Expo & CLI), Node.js, Vue, Angular, Laravel, Symfony, Flask, and FastAPI. I integrate AI models, build robust APIs, and optimize cloud deployments, focusing on maintainable, reliable, secure, and high-performance systems across web and mobile. I thrive in Agile environments, collaborating across teams, mentoring developers, and delivering products that combine cutting-edge AI with real-world applications.
 
 ✌ 𝗠𝘆 𝗦𝗸𝗶𝗹𝗹𝘀 ✌
 
@@ -30,6 +30,17 @@ I am a highly skilled Full-Stack & AI Engineer specializing in building **scalab
 ● LangChain/Graph, LangSmith, Sora for AI workflow orchestration  
 ● Generative AI with MidJourney, Stable Diffusion, Flux, Veo  
 ● Model monitoring, A/B testing, prompt engineering, and fine-tuning
+
+𝐌𝐨𝐛𝐢𝐥𝐞 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 (𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 / 𝐄𝐱𝐩𝐨): <br/>
+● React Native (iOS/Android), Expo (Managed & Bare workflows)  
+● Cross-platform UI development with reusable component systems and responsive layouts  
+● Navigation with React Navigation (stacks/tabs/drawers), deep linking, and app state handling  
+● Native device features: Camera, Location, Push Notifications (FCM/APNs), Contacts, Sensors  
+● Offline-first patterns: local persistence (AsyncStorage/MMKV/SQLite), caching, and sync strategies  
+● Performance optimization: list virtualization, memoization, bundle optimization, and crash-free releases  
+● Mobile API integration: REST/GraphQL clients, auth flows (JWT/OAuth), secure storage (Keychain/Keystore)  
+● Build & release: EAS Build/Submit, App Store / Google Play deployments, env management, versioning  
+● Mobile testing & quality: Jest, React Native Testing Library, Detox (E2E), and analytics/crash reporting
 
 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 & 𝐐𝐔𝐀𝐋𝐈𝐓𝐘: <br/>
 ● Unit & integration testing with Jest, JUnit, Karma, TestNG  
